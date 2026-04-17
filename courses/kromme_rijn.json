@@ -1,64 +1,56 @@
-{
-  "version": 0.6,
-  "generator": "Overpass API 0.7.62.11 87bfad18",
-  "osm3s": {
-    "timestamp_osm_base": "2026-04-14T20:52:06Z",
-    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
-  },
-  "elements": [
+[
     {
-      "type": "way",
-      "id": 472207051,
-      "center": { "lat": 52.0685086, "lon": 5.2162672 },
-      "tags": { "golf": "green", "ref": "1", "par": "4", "surface": "grass" }
+        "hole": 1,
+        "par": 4,
+        "green": { "lat": 52.0685086, "lon": 5.2162672 },
+        "aim": null
     },
     {
-      "type": "way",
-      "id": 472207048,
-      "center": { "lat": 52.0671929, "lon": 5.219252 },
-      "tags": { "golf": "green", "ref": "2", "par": "4", "surface": "grass" }
+        "hole": 2,
+        "par": 4,
+        "green": { "lat": 52.0671929, "lon": 5.219252 },
+        "aim": null
     },
     {
-      "type": "way",
-      "id": 472207043,
-      "center": { "lat": 52.0674945, "lon": 5.2171322 },
-      "tags": { "golf": "green", "ref": "3", "par": "3", "surface": "grass" }
+        "hole": 3,
+        "par": 3,
+        "green": { "lat": 52.0674945, "lon": 5.2171322 },
+        "aim": null
     },
     {
-      "type": "way",
-      "id": 472207038,
-      "center": { "lat": 52.0674752, "lon": 5.21295 },
-      "tags": { "golf": "green", "ref": "4", "par": "4", "surface": "grass" }
+        "hole": 4,
+        "par": 4,
+        "green": { "lat": 52.0674752, "lon": 5.21295 },
+        "aim": null
     },
     {
-      "type": "way",
-      "id": 472207037,
-      "center": { "lat": 52.065971, "lon": 5.2194451 },
-      "tags": { "golf": "green", "ref": "5", "par": "5", "surface": "grass" }
+        "hole": 5,
+        "par": 5,
+        "green": { "lat": 52.065971, "lon": 5.2194451 },
+        "aim": null
     },
     {
-      "type": "way",
-      "id": 472207036,
-      "center": { "lat": 52.0652795, "lon": 5.2187054 },
-      "tags": { "golf": "green", "ref": "6", "par": "3", "surface": "grass" }
+        "hole": 6,
+        "par": 3,
+        "green": { "lat": 52.0652795, "lon": 5.2187054 },
+        "aim": null
     },
     {
-      "type": "way",
-      "id": 472207035,
-      "center": { "lat": 52.0651451, "lon": 5.2136864 },
-      "tags": { "golf": "green", "ref": "7", "par": "4", "surface": "grass" }
+        "hole": 7,
+        "par": 4,
+        "green": { "lat": 52.0651451, "lon": 5.2136864 },
+        "aim": null
     },
     {
-      "type": "way",
-      "id": 472207034,
-      "center": { "lat": 52.0650007, "lon": 5.2178613 },
-      "tags": { "golf": "green", "ref": "8", "par": "3", "surface": "grass" }
+        "hole": 8,
+        "par": 3,
+        "green": { "lat": 52.0650007, "lon": 5.2178613 },
+        "aim": null
     },
     {
-      "type": "way",
-      "id": 472207039,
-      "center": { "lat": 52.0673507, "lon": 5.2115637 },
-      "tags": { "golf": "green", "ref": "9", "par": "5", "surface": "grass" }
+        "hole": 9,
+        "par": 5,
+        "green": { "lat": 52.0673507, "lon": 5.2115637 },
+        "aim": null
     }
-  ]
-}
+]
