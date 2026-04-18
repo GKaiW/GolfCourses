@@ -1,3 +1,4 @@
 [
-  {"id": "KrommeRijn", "name": "Kromme Rijn", "holes": 9, "lat": 52.0685, "lon": 5.2163, "file": "kromme_rijn.json"}
+  {"id": "KrommeRijn", "name": "Kromme Rijn", "holes": 9, "lat": 52.0685, "lon": 5.2163, "file": "kromme_rijn.json"},
+  {"id": "Amelisweerd", "name": "Amelisweerd", "holes": 9, "lat": 52.0634, "lon": 5.1492 , "file": "amelisweerd3.json"}
 ]
