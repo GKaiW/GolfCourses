@@ -2,5 +2,5 @@
   {"id": "KrommeRijn", "name": "Kromme Rijn", "holes": 9, "lat": 52.0685, "lon": 5.2163, "file": "kromme_rijn.json"},
   {"id": "AmelisweerdPar3", "name": "Amelisweerd P", "holes": 9, "lat": 52.0634, "lon": 5.1492, "file": "amelisweerd3.json"},
   {"id": "Amelisweerd", "name": "Amelisweerd", "holes": 18, "lat": 52.0637, "lon": 5.1559, "file": "amelisweerd.json"},
-  {"id": "DeUtrechtse", "name": "De Utrechtse P", "holes": 9, "lat": 52.0354, "lon": 5.12194, "file": "utrechtse3.json"}
+  {"id": "DeUtrechtse", "name": "De Utrechtse P", "holes": 9, "lat": 52.0354, "lon": 5.12194, "file": "deutrechtse3.json"}
 ]
