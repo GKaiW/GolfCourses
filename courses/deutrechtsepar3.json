@@ -1,0 +1,56 @@
+[
+    {
+        "hole": 1,
+        "par": 3,
+        "green": { "lat": 52.035409, "lon": 5.1219429 },
+        "aim": null
+    },
+    {
+        "hole": 2,
+        "par": 3,
+        "green": { "lat": 52.0354168, "lon": 5.1224951 },
+        "aim": null
+    },
+    {
+        "hole": 3,
+        "par": 3,
+        "green": { "lat": 52.0355865, "lon": 5.1230823 },
+        "aim": null
+    },
+    {
+        "hole": 4,
+        "par": 3,
+        "green": { "lat": 52.036278, "lon": 5.122213 },
+        "aim": null
+    },
+    {
+        "hole": 5,
+        "par": 3,
+        "green": { "lat": 52.0368742, "lon": 5.122493 },
+        "aim": null
+    },
+    {
+        "hole": 6,
+        "par": 3,
+        "green": { "lat": 52.0366661, "lon": 5.1237837 },
+        "aim": null
+    },
+    {
+        "hole": 7,
+        "par": 3,
+        "green": { "lat": 52.0366253, "lon": 5.1229927 },
+        "aim": null
+    },
+    {
+        "hole": 8,
+        "par": 3,
+        "green": { "lat": 52.0359179, "lon": 5.1233822 },
+        "aim": null
+    },
+    {
+        "hole": 9,
+        "par": 3,
+        "green": { "lat": 52.0347872, "lon": 5.1222614 },
+        "aim": null
+    }
+]
