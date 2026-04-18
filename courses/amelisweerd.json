@@ -1,0 +1,110 @@
+[
+    {
+        "hole": 1,
+        "par": 4,
+        "green": { "lat": 52.0637794, "lon": 5.1559846 },
+        "aim": null
+    },
+    {
+        "hole": 2,
+        "par": 3,
+        "green": { "lat": 52.0629838, "lon": 5.1531671 },
+        "aim": null
+    },
+    {
+        "hole": 3,
+        "par": 4,
+        "green": { "lat": 52.059433, "lon": 5.1547297 },
+        "aim": null
+    },
+    {
+        "hole": 4,
+        "par": 4,
+        "green": { "lat": 52.0631627, "lon": 5.1559007 },
+        "aim": null
+    },
+    {
+        "hole": 5,
+        "par": 3,
+        "green": { "lat": 52.0636155, "lon": 5.1592099 },
+        "aim": null
+    },
+    {
+        "hole": 6,
+        "par": 4,
+        "green": { "lat": 52.0652453, "lon": 5.1552738 },
+        "aim": null
+    },
+    {
+        "hole": 7,
+        "par": 3,
+        "green": { "lat": 52.0643126, "lon": 5.1563896 },
+        "aim": null
+    },
+    {
+        "hole": 8,
+        "par": 5,
+        "green": { "lat": 52.0666779, "lon": 5.149504 },
+        "aim": null
+    },
+    {
+        "hole": 9,
+        "par": 4,
+        "green": { "lat": 52.0641686, "lon": 5.1529924 },
+        "aim": null
+    },
+    {
+        "hole": 10,
+        "par": 5,
+        "green": { "lat": 52.0584818, "lon": 5.1527171 },
+        "aim": null
+    },
+    {
+        "hole": 11,
+        "par": 4,
+        "green": { "lat": 52.0604946, "lon": 5.1569173 },
+        "aim": null
+    },
+    {
+        "hole": 12,
+        "par": 4,
+        "green": { "lat": 52.0624236, "lon": 5.1617086 },
+        "aim": null
+    },
+    {
+        "hole": 13,
+        "par": 3,
+        "green": { "lat": 52.0626032, "lon": 5.1648714 },
+        "aim": null
+    },
+    {
+        "hole": 14,
+        "par": 4,
+        "green": { "lat": 52.0625149, "lon": 5.1601992 },
+        "aim": null
+    },
+    {
+        "hole": 15,
+        "par": 4,
+        "green": { "lat": 52.0616538, "lon": 5.1576231 },
+        "aim": null
+    },
+    {
+        "hole": 16,
+        "par": 3,
+        "green": { "lat": 52.0633776, "lon": 5.1578493 },
+        "aim": null
+    },
+    {
+        "hole": 17,
+        "par": 4,
+        "green": { "lat": 52.0598567, "lon": 5.1558296 },
+        "aim": null
+    },
+    {
+        "hole": 18,
+        "par": 5,
+        "green": { "lat": 52.0629551, "lon": 5.1520595 },
+        "aim": null
+    }
+]
